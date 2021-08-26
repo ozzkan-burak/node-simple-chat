@@ -1,0 +1,19 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chat.js",
+  "scripts": {
+    "start": "nodemon chat.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "express": "^4.17.1",
+    "jquery": "^3.6.0",
+    "nodemon": "^2.0.12",
+    "socket.io": "^4.1.3"
+  }
+}
